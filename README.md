@@ -34,4 +34,5 @@ Characteristics
   The least popular genres are family, animation, and sports movies
   Many movies are a blend of many genres
 Future Improvements
-Identify 1-2 improvements if you had more time
+  I would have definitely been more thorough with my data collection, I sort of rushed through the process and didn't get all the data I ended up needing.  As a    
+  result, my queries lacked a certain sense of depth necessary to be as effective as possible.  
